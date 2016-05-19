@@ -1,29 +1,41 @@
-name: ImportadoraBicentenario
-favicon: null
-layout_spectrum: 0.89199
-typography_spectrum: 0.7922
-title: Novelties Distributor
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Distributor  IBC
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7989294184371829
+  brandStrength: 0.679485023021698
+  rhythmicContrast: 0.7919140129815787
   brandColors:
     - '#9f0513'
     - '#ffffff'
     - '#e0bbbc'
     - '#b64a53'
     - '#cf9798'
-  brandStrength: 0.679485023021698
   lightness: 0.9818446987774223
-  saturation: 0.7989294184371829
-  rhythmicContrast: 0.7919140129815787
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: ImportadoraBicentenario
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.841484
+layout_spectrum: 0.89199

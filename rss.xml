@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Distributor  IBC]]></title>
-        <description><![CDATA[Distributor  IBC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Novelties Distributor]]></title>
+        <description><![CDATA[Novelties Distributor]]></description>
+        <link>https://thegrid.ai/importadorabicentenario/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 22:09:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 22:15:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/importadorabicentenario/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a93ec81-32be-496c-a77e-c8cd50eec8a2.jpg">]]></description>
-            <link>undefinedimportadora-y-distribuidora-bicentenario/index.html</link>
+            <link>https://thegrid.ai/importadorabicentenario/importadora-y-distribuidora-bicentenario/index.html</link>
             <guid isPermaLink="false">bb139290-9c40-49f6-88dc-cb0524dcdd93</guid>
-            <pubDate>Thu, 19 May 2016 22:09:20 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 22:14:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
